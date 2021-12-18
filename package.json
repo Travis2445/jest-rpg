@@ -16,7 +16,10 @@
     "url": "https://github.com/Travis2445/jest-rpg/issues"
   },
   "homepage": "https://github.com/Travis2445/jest-rpg#readme",
-  "devDependencies": {
+  "Dependencies": {
+    "jest": "^27.4.5"
+  },
+  "dependencies": {
     "jest": "^27.4.5"
   }
 }
